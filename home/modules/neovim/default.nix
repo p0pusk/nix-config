@@ -28,6 +28,8 @@
       cmake-language-server
       typescript-language-server
       gopls
+      yaml-language-server
+      docker-language-server
     ];
   };
 }

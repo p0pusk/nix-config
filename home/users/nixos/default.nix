@@ -71,6 +71,7 @@
       antlr
 
       nomachine-client
+      remmina
       spotify
 
       obs-studio

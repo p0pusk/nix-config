@@ -86,7 +86,6 @@
     isync
 
     latexrun
-    pplatex
     texlive.combined.scheme-full
     texlivePackages.termes-otf
     typst
